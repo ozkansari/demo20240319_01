@@ -1,4 +1,4 @@
-# Dosya 1
+# Dosya 1:
 
 Dosya 1 içeriği buraya gelecek.
 
